@@ -33,6 +33,20 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="Actividad1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -43,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585845674708</updated>
-      <workItem from="1585845677015" duration="2058000" />
+      <workItem from="1585845677015" duration="3244000" />
     </task>
     <servers />
   </component>
@@ -55,26 +69,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585846838224" />
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1585846457646">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1585849172834">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585846457646" />
-    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1585846457645">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585849172834" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1585849172834">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585846457645" />
-    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1585846457645">
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585849172834" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1585849172834">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585846457645" />
-    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1585846457646">
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585849172834" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1585849172834">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585846457646" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1585845982111">
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585849172834" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1585849219798">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585845982111" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585849219798" />
     <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585845683655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
